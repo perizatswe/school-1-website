@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
     
-    <head>
-        <title>1-school website</title>
+<head>
+    <title>1-school website</title>
+    <link rel="stylesheet" href="style.css">
     </head>
     
-    <body>
-        <a href="#">Klaslar</a>
-        <a href="#">Muģallimler</a>
-        <a href="#">Pánler</a>
-        <a href="#">Biz haqqimizda</a>
+<body>
+     <a href="#">Klaslar</a>
+     <a href="#">Muģallimler</a>
+     <a href="#">Pánler</a>
+     <a href="#">Biz haqqimizda</a>
 </body>
 </html>
